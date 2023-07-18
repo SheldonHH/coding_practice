@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "52c83341157cd2e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d33c88f880c0f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e25340dc813fbbb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/03-length of Longest Sustring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc6b488a717869ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "a230de90a8bb0305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "748fe20157caa935",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6fb41621d71a6fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f09c3d4643da1e60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91841ce959b556ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a54c76150d4fa68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca1fd1909d96a19f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "leetcode/03-length of Longest Sustring.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64dd709ee43106b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "leetcode/03-length of Longest Sustring.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac07af7738b1a5e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc13fe5752afebb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "leetcode/03-length of Longest Sustring.md"
+              }
+            }
+          },
+          {
+            "id": "aaba521eda90090c",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c39cdcd83642890e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e25340dc813fbbb4",
+  "lastOpenFiles": [
+    "leetcode/03.md",
+    "leetcode/03-length of Longest Sustring.md",
+    "leetcode"
+  ]
+}
