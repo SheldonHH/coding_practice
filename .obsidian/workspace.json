@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "91841ce959b556ef",
@@ -151,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaba521eda90090c",
+  "active": "748fe20157caa935",
   "lastOpenFiles": [
+    "leetcode/04/04.pdf",
     "leetcode/04",
     "leetcode/03-length of Longest Sustring.md",
     "leetcode/04/04.md",
