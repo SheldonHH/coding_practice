@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/04.md",
+                "file": "leetcode/04/04.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "91841ce959b556ef",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/04.md",
+                "file": "leetcode/04/04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/04.md",
+                "file": "leetcode/04/04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/04.md"
+                "file": "leetcode/04/04.md"
               }
             }
           },
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e25340dc813fbbb4",
+  "active": "aaba521eda90090c",
   "lastOpenFiles": [
+    "leetcode/04",
     "leetcode/03-length of Longest Sustring.md",
-    "leetcode/04.md",
+    "leetcode/04/04.md",
     "leetcode/03.md",
     "leetcode"
   ]
