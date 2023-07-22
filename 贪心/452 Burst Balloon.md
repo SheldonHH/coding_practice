@@ -35,3 +35,34 @@ public:
 };
 
 ```
+
+
+
+# Rust
+```rust
+pub struct Solution;
+
+impl Solution {
+    pub fn find_min_arrow_shots(mut points: Vec<Vec<i32>>) -> i32 {
+        if points.is_empty() {
+            return 0;
+        }
+
+        // Sort the points by the end coordinate
+        points.sort_by_key(|a| a[1]);
+
+        let mut arrow_count = 1;
+        let mut current_arrow_end = points[0][1];
+
+        for point in points.iter().skip(1) {
+            // If the start of the current point is greater than the end of the last shot arrow, we need another arrow
+            if point[0] > current_arrow_end {
+                arrow_count += 1;
+                current_arrow_end = point[1];
+            }
+        }
+
+        arrow_count
+    }
+}
+```
