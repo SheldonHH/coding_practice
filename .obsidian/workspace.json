@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "贪心/55. Jump Game.md",
+                "file": "贪心/452 Burst Balloon.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "91841ce959b556ef",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "贪心/55. Jump Game.md",
+                "file": "贪心/452 Burst Balloon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "贪心/55. Jump Game.md",
+                "file": "贪心/452 Burst Balloon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "贪心/55. Jump Game.md"
+                "file": "贪心/452 Burst Balloon.md"
               }
             }
           },
@@ -150,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +165,9 @@
   },
   "active": "e25340dc813fbbb4",
   "lastOpenFiles": [
-    "leetcode/04/04.md",
     "贪心/55. Jump Game.md",
+    "贪心/452 Burst Balloon.md",
+    "leetcode/04/04.md",
     "贪心",
     "leetcode/04/04.pdf",
     "leetcode/04",
