@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e25340dc813fbbb4",
+  "active": "aaba521eda90090c",
   "lastOpenFiles": [
     "贪心/55. Jump Game.md",
     "贪心/452 Burst Balloon.md",
