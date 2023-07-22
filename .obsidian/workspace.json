@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/04/04.md",
+                "file": "贪心/55. Jump Game.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/04/04.md",
+                "file": "贪心/55. Jump Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/04/04.md",
+                "file": "贪心/55. Jump Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/04/04.md"
+                "file": "贪心/55. Jump Game.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,12 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "748fe20157caa935",
+  "active": "e25340dc813fbbb4",
   "lastOpenFiles": [
+    "leetcode/04/04.md",
+    "贪心/55. Jump Game.md",
+    "贪心",
     "leetcode/04/04.pdf",
     "leetcode/04",
     "leetcode/03-length of Longest Sustring.md",
-    "leetcode/04/04.md",
     "leetcode/03.md",
     "leetcode"
   ]
