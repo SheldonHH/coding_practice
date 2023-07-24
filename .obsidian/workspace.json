@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5d33c88f880c0f86",
+        "id": "ace66a5a1a09fec1",
         "type": "tabs",
         "children": [
           {
-            "id": "e25340dc813fbbb4",
+            "id": "497cb8751cfae29c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "edebabd363696835",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "贪心/452 Burst Balloon.md",
+                "file": "图200.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "91841ce959b556ef",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "贪心/452 Burst Balloon.md",
+                "file": "图200.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "贪心/452 Burst Balloon.md",
+                "file": "图200.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "贪心/452 Burst Balloon.md"
+                "file": "图200.md"
               }
             }
           },
@@ -164,11 +172,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaba521eda90090c",
+  "active": "edebabd363696835",
   "lastOpenFiles": [
-    "贪心/55. Jump Game.md",
-    "贪心/452 Burst Balloon.md",
+    "图200.md",
+    "SlidingWindows/0239.md",
+    "SubarrayPresum/2560.md",
+    "SubarrayPresum/House Robber IV 2560.pdf",
     "leetcode/04/04.md",
+    "贪心/452 Burst Balloon.md",
+    "贪心/55. Jump Game.md",
     "贪心",
     "leetcode/04/04.pdf",
     "leetcode/04",
