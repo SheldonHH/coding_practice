@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/leetcode 22.md",
+                "file": "leetcode/0026-RemoveDuplicatesFromSortedArray.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/leetcode 22.md",
+                "file": "leetcode/0026-RemoveDuplicatesFromSortedArray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/leetcode 22.md",
+                "file": "leetcode/0026-RemoveDuplicatesFromSortedArray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/leetcode 22.md"
+                "file": "leetcode/0026-RemoveDuplicatesFromSortedArray.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "edebabd363696835",
   "lastOpenFiles": [
-    "leetcode/leetcode 20.md",
     "leetcode/leetcode 22.md",
+    "leetcode/0026-RemoveDuplicatesFromSortedArray.md",
+    "leetcode/leetcode 20.md",
     "leetcode/leetcode 19.md",
     "lc.md",
     "SlidingWindows/0239.md",
