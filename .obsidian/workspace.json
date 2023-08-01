@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图/图200.md",
+                "file": "leetcode/leetcode 20.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "图/图200.md",
+                "file": "leetcode/leetcode 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "图/图200.md",
+                "file": "leetcode/leetcode 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图/图200.md"
+                "file": "leetcode/leetcode 20.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "edebabd363696835",
   "lastOpenFiles": [
-    "图/图DFS.md",
     "图/图200.md",
+    "leetcode/leetcode 20.md",
+    "图/图DFS.md",
     "图",
     "Pasted image 20230724203800.png",
     "SlidingWindows/0239.md",
