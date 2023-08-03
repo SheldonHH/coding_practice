@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/0033-search in roated.md",
+                "file": "leetcode/0034_firstAndLastPosOfElementINSortedArray.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/0033-search in roated.md",
+                "file": "leetcode/0034_firstAndLastPosOfElementINSortedArray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/0033-search in roated.md",
+                "file": "leetcode/0034_firstAndLastPosOfElementINSortedArray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/0033-search in roated.md"
+                "file": "leetcode/0034_firstAndLastPosOfElementINSortedArray.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   "active": "742a38f3921b22d0",
   "lastOpenFiles": [
     "leetcode/0033-search in roated.md",
+    "leetcode/0034_firstAndLastPosOfElementINSortedArray.md",
     "leetcode/0027-divide-two-integer.md",
     "leetcode/0026-RemoveDuplicatesFromSortedArray.md",
     "leetcode/leetcode 22.md",
