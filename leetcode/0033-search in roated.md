@@ -69,36 +69,36 @@ public int search(int[] arr, int num) {
 				return M;
 			}
 			// arr[M] != num
-			// [L] == [M] == [R] != num 无法二分
+			// [L] == [M] == [R] != num can't binary search
 			if (arr[L] == arr[M] && arr[M] == arr[R]) {
 				while (L != M && arr[L] == arr[M]) {
 					L++;
 				}
-				// 1) L == M L...M 一路都相等
-				// 2) 从L到M终于找到了一个不等的位置
-				if (L == M) { // L...M 一路都相等
+				// 1) L == M L...M all equal
+				// 2) from L to M find a place not equal
+				if (L == M) { // L...all size
 					L = M + 1;
 					continue;
 				}
 			}
 			// ...
 			// arr[M] != num
-			// [L] [M] [R] 不都一样的情况, 如何二分的逻辑
+			// [L] [M] [R] all different, how to binary search
 			if (arr[L] != arr[M]) {
-				if (arr[M] > arr[L]) { // L...M 一定有序 
+				if (arr[M] > arr[L]) { // L...M must be sorted
 					if (num >= arr[L] && num < arr[M]) { //  3  [L] == 1    [M]   = 5   L...M - 1
 						R = M - 1;
 					} else { // 9    [L] == 2    [M]   =  7   M... R
 						L = M + 1;
 					}
-				} else { // [L] > [M]    L....M  存在断点
+				} else { // [L] > [M]    L....M  have breakpoints
 					if (num > arr[M] && num <= arr[R]) {
 						L = M + 1;
 					} else {
 						R = M - 1;
 					}
 				}
-			} else { /// [L] [M] [R] 不都一样，  [L] === [M] -> [M]!=[R]
+			} else { /// [L] [M] [R] all differnt，  [L] === [M] -> [M]!=[R]
 				if (arr[M] < arr[R]) {
 					if (num > arr[M] && num <= arr[R]) {
 						L = M + 1;
@@ -115,5 +115,5 @@ public int search(int[] arr, int num) {
 			}
 		}
 		return -1;
-	}
+}
 ```
