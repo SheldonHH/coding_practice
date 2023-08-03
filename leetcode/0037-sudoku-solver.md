@@ -1,6 +1,9 @@
 ---
 created: 2023-08-03 09:42:11
 ---
+- https://leetcode.com/problems/sudoku-solver/
+
+![[Pasted image 20230803222945.png]]
 
 
 ```java

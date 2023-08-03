@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,6 +175,7 @@
   },
   "active": "742a38f3921b22d0",
   "lastOpenFiles": [
+    "Pasted image 20230803222945.png",
     "leetcode/0036-valid-sudoku.md",
     "leetcode/0037-sudoku-solver.md",
     "leetcode/0034_firstAndLastPosOfElementINSortedArray.md",
