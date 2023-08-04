@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/0037-sudoku-solver.md",
+                "file": "leetcode/0038-CountAndSay.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/0037-sudoku-solver.md",
+                "file": "leetcode/0038-CountAndSay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/0037-sudoku-solver.md",
+                "file": "leetcode/0038-CountAndSay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/0037-sudoku-solver.md"
+                "file": "leetcode/0038-CountAndSay.md"
               }
             }
           },
@@ -174,9 +174,10 @@
   },
   "active": "742a38f3921b22d0",
   "lastOpenFiles": [
+    "leetcode/0037-sudoku-solver.md",
+    "leetcode/0038-CountAndSay.md",
     "Pasted image 20230803222945.png",
     "leetcode/0036-valid-sudoku.md",
-    "leetcode/0037-sudoku-solver.md",
     "leetcode/0034_firstAndLastPosOfElementINSortedArray.md",
     "leetcode/0033-search in roated.md",
     "leetcode/0027-divide-two-integer.md",
