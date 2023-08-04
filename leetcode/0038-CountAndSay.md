@@ -2,6 +2,12 @@
 created: 2023-08-04 03:32:52
 ---
 
+
+- https://leetcode.com/problems/count-and-say/
+
+![[Pasted image 20230804153537.png]]
+
+
 - https://leetcode.com/problems/count-and-say/
 ```java
 	public String countAndSay(int n) {
