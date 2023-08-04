@@ -2,6 +2,7 @@
 created: 2023-08-04 05:24:46
 ---
 
+- https://leetcode.com/problems/trapping-rain-water/
 ```java
 public int trap(int[] arr) {
 		if (arr == null || arr.length < 3) {
@@ -26,3 +27,5 @@ public int trap(int[] arr) {
 	}
 
 ```
+
+![[Pasted image 20230804203721.png]]
